@@ -1,5 +1,5 @@
 # smtp
-smtp를 이용해 메일을 보내는 프로그램
+smtp를 이용해 메일을 보내는 프로그램<br>
 ##필요한 .jar파일
 activation-1.1
 mail-1.4.7
