@@ -1,6 +1,6 @@
 # smtp
 smtp를 이용해 메일을 보내는 프로그램<br>
-##필요한 .jar파일
+##필요한 .jar파일<br>
 activation-1.1
 mail-1.4.7
 ### 실행시킨 화면
